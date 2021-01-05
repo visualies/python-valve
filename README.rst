@@ -1,6 +1,6 @@
 |PyPI| |PyPIPythonVersions| |Travis| |Coveralls|
 
-Python-valve
+Python-valve (Fork to fully support Ark RCON +timeouts)
 ============
 
 Python-valve is a Python library which intends to provide an all-in-one
